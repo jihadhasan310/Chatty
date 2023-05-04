@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861916191879",
+    "firebase_url": "https://chatty-6185d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatty-6185d",
+    "storage_bucket": "chatty-6185d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861916191879:android:d7ece4fbde5b2ebf242c22",
+        "android_client_info": {
+          "package_name": "dm2e.jihad.chatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861916191879-7h696v4bue438iphmte66jla83hsipsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dm2e.jihad.chatty",
+            "certificate_hash": "5288bc30ecfdc1606b0ce4d5d055dda5023c1e93"
+          }
+        },
+        {
+          "client_id": "861916191879-sboh3u82ducajjj11o8k9fgsigkvgvvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi2sSDyLSVKcFaPu2rSVP-6T2uQ9x4s9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861916191879-9ojf8v5qf0tsop121mip2u97fk4bnmn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

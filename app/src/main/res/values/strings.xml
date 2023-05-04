@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Chatty</string>
+    <string name="ficheroEstadoAutenticado">dm2e.jihad.Chatty.PREFERENCE_FILE_KEY</string>
+
+    <string name="terminos">
+        Para poder usar la aplicación Chatty, es necesario que aceptes los siguientes términos y condiciones:
+
+    Términos de uso: Al usar la aplicación Chatty, aceptas cumplir con los términos de uso establecidos por los desarrolladores. Estos términos incluyen, pero no se limitan a, no utilizar la aplicación para fines ilegales, no compartir contenido inapropiado, y no acosar o molestar a otros usuarios.
+
+    Privacidad: Chatty respeta tu privacidad y protege tus datos personales. La aplicación utiliza tu información únicamente con fines de autenticación y para mejorar tu experiencia de usuario. Tus datos no serán compartidos con terceros sin tu consentimiento.
+
+    Contenido generado por el usuario: Los usuarios son responsables de cualquier contenido generado por ellos mismos en la aplicación Chatty. Los desarrolladores no se hacen responsables por dicho contenido, pero se reservan el derecho a tomar medidas en caso de que se infrinjan los términos de uso.
+
+    Al hacer clic en "Aceptar", estás confirmando que has leído y comprendido los términos y condiciones de Chatty, y que estás de acuerdo en cumplir con ellos para poder usar la aplicación.
+
+
+    </string>
+    <string name="TyC">Términos y condiciones</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="correo">Correo</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="iniciarSesion">Iniciar Sesión</string>
+    <string name="recuperarContrasenia">¡Pincha para recuperar contraseña!</string>
+    <string name="registrar">¿No tienes cuenta? Registrar</string>
+    <string name="rg">Registrar</string>
+    <string name="nombre">Nombre de Usuario</string>
+    <string name="sala">Introduce el nombre de la sala para unir a la llamada, por favor.</string>
+    <string name="titulo_has_olvidado_pass">¿Has olvidado la Contraseña?</string>
+    <string name="introduce_correo">Introduce el correo para restablecer</string>
+    <string name="enviar">Enviar</string>
+    <string name="estas_seguro">Are you sure you want to exit?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="guardar">Guardar</string>
+    <string name="hint_msg">Escribe el Mensaje...</string>
+    <string name="resetError">esta vacio el campo correo, por favor introduce el correo que desea cambiar contraseña</string>
+    <string name="correoEnviado">Se ha enviado un correo para poder cambiar la contraseña</string>
+    <string name="correo_mal_formado">¡¡El correo introducido no existe o esta mal formado!!</string>
+    <string name="loginError">No se ha podido inciar seseion</string>
+    <string name="campoVacio">Campo vacio</string>
+    <string name="enviarMensajeError">¡Antes enviar Escribe algo bobo!</string>
+    <string name="errorRegistrar">Usuario no se ha podido  registrar, puede que la cuenta ya existe o que los campos estan mal introducidos</string>
+    <string name="status">Hola, estoy usando Chatty</string>
+    <string name="elijeFoto">Elige una foto</string>
+
+    <string name="errorEmailVacio">* Está Vacio el Campo Correo</string>
+    <string name="errorNombreVacio"> * Está Vacio el Campo Nombre</string>
+    <string name="errorPassVacio">* Está Vacio el Campo Contraseña</string>
+    <string name="errorVacio">* Está Vacio el Campo </string>
+    <string name="guardarUsuario">Se ha guardado correctamente</string>
+    <string name="acutalizando">Actualizando...</string>
+
+
+</resources>

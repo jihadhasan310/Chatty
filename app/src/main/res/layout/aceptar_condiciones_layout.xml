@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    >
+    <ImageView
+        android:id="@+id/id_cerrar_condiciones_alert"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/cross"
+        android:outlineSpotShadowColor="@color/colorLink"
+        android:layout_gravity="end|center_vertical"/>
+    <!-- Título de la ventana -->
+    <TextView
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/TyC"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:layout_margin="10dp"
+        android:textStyle="bold" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:background="@color/black"
+            android:textColor="@color/white"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/terminos"
+            />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/id_aceptar_condiciones_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/aceptar"
+        android:textAllCaps="false"
+        android:textSize="15sp"
+        android:layout_margin="15dp"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        />
+
+</LinearLayout>
+
